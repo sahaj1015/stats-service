@@ -8,7 +8,7 @@ from starlette.middleware.base import BaseHTTPMiddleware
 # ---------------------------------------------------------------------------
 # >>> EDIT THESE TWO VALUES BEFORE DEPLOYING <<<
 # ---------------------------------------------------------------------------
-ALLOWED_ORIGIN = "https://24f3005134@ds.study.iitm.ac.in"
+ALLOWED_ORIGIN = "https://dash-dgb14h.example.com"
 YOUR_EMAIL = "24f3005134@ds.study.iitm.ac.in"
 # ---------------------------------------------------------------------------
 
