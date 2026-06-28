@@ -8,8 +8,8 @@ from starlette.middleware.base import BaseHTTPMiddleware
 # ---------------------------------------------------------------------------
 # >>> EDIT THESE TWO VALUES BEFORE DEPLOYING <<<
 # ---------------------------------------------------------------------------
-ALLOWED_ORIGIN = "https://REPLACE-WITH-YOUR-ASSIGNED-ORIGIN.example.com"
-YOUR_EMAIL = "REPLACE-WITH-YOUR-LOGGED-IN-EMAIL@example.com"
+ALLOWED_ORIGIN = "https://24f3005134@ds.study.iitm.ac.in"
+YOUR_EMAIL = "24f3005134@ds.study.iitm.ac.in"
 # ---------------------------------------------------------------------------
 
 app = FastAPI()
